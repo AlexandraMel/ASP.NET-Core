@@ -1,0 +1,11 @@
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.deps.json
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.runtimeconfig.json
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.runtimeconfig.dev.json
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.dll
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\bin\Debug\netcoreapp2.0\Middleware.pdb
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.csprojResolveAssemblyReference.cache
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.AssemblyInfo.cs
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.dll
+C:\Users\Alechka\Documents\Visual Studio 2017\Projects\ASP\Middleware\Middleware\Middleware\obj\Debug\netcoreapp2.0\Middleware.pdb
